@@ -3,17 +3,19 @@
 
 ## Font
 
-        Font in use <a target="_blank" href="https://www.fontsquirrel.com/license/rex">Rex Bold</a> designed by
-        <a target="_blank" href="http://www.fontfabric.com/">Fontfabric</a>
-        and licensed under
-        <a target="_blank" href="http://www.fontfabric.com/">Freeware.</a>
-          Icon Designed by
-          <a target="_blank" href="https://thenounproject.com/xoxo">XOXO</a>
-          
+
+Font in use <a target="_blank" href="https://hanken.co/product/hk-grotesk/">HKGrotesk-Medium</a> designed by
+<a target="_blank" href="https://hanken.co/">Hanken Design Co.</a>
+and licensed under
+<a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
+Icon Designed by
+<a target="_blank" href="https://thenounproject.com/lastspark">lastspark</a>
+
+
 
 Font
 
-    #FF0022, #84014E
+    #DADADA, #0F80B9
     
     
 Background
@@ -23,7 +25,7 @@ Background
 
 Icon
 
-    #84014E, #FF0022    
+    #0F80B9, #DADADA
 
 
 
